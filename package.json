@@ -28,7 +28,7 @@
         "eslint": "^5.16.0",
         "eslint-plugin-vue": "^5.0.0",
         "file-loader": "^4.2.0",
-        "node-sass": "^4.13.0",
+        "node-sass": "^7.0.0",
         "sass-loader": "^8.0.0",
         "vue-cli-plugin-pug": "^1.0.7",
         "vue-loader": "^15.7.1",
