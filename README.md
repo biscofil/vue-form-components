@@ -1,6 +1,8 @@
 Vue form groups (DEV stage)
 ===========================
 
+[![CI](https://github.com/biscofil/vue-form-components/actions/workflows/blank.yml/badge.svg)](https://github.com/biscofil/vue-form-components/actions/workflows/blank.yml)
+
 Vue components that show validation errors for form inputs.
 
 ```js
